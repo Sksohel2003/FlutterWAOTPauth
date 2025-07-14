@@ -1,4 +1,4 @@
-WhatsApp OTP Authentication using Flutter + Node.js
+### WhatsApp OTP Authentication using Flutter + Node.js
 
 Authenticate users using their phone numbers via WhatsApp OTP. If a user is new, register them; otherwise, log them in. Built using:
 
@@ -75,7 +75,7 @@ MONGO_URI=your_mongodb_connection_string
 ```
 Start backend:
 ```
-node app.js
+node server.js
 ```
 Server will run on http://localhost:5000
 
@@ -126,12 +126,12 @@ If correct → check user in DB:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37afe70b-b94e-45ed-b1ab-f0129377b28c" />
 
 
-4. 📝 New User Registration
+4. New User Registration
 Name and email fields are submitted via /register.
 
 
 
-5. 🏠 Home Screen
+5. Home Screen
 After login or registration, user is navigated to HomeScreen.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22d7d27b-4b98-4eaf-ae62-b2934b4ff31d" />
