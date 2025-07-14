@@ -173,6 +173,40 @@ To send WhatsApp messages to anyone (not just verified numbers):
 - Follow Twilio’s [WhatsApp Business API onboarding guide](https://www.twilio.com/docs/whatsapp).
 
 
+---
+
+## Contributing
+
+Pull requests are welcome! If you have suggestions or improvements, feel free to fork this repo and submit a PR.
+
+---
+
+## Acknowledgements
+
+- [Flutter](https://flutter.dev/)
+- [Node.js](https://nodejs.org/)
+- [Twilio](https://www.twilio.com/)
+- [MongoDB](https://www.mongodb.com/)
+- UI inspiration from various open-source projects
+
+---
+
+## Learning Resources
+
+- [Twilio WhatsApp API Docs](https://www.twilio.com/docs/whatsapp)
+- [Flutter HTTP Networking](https://docs.flutter.dev/cookbook/networking/fetch-data)
+- [Node.js with Express](https://expressjs.com/)
+
+---
+
+##  Contact
+
+Feel free to reach out if you have questions or want to collaborate.
+
+📧 Email: shaiksohel120gmail.com
+
+
+
 
 
 
