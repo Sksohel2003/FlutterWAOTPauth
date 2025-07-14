@@ -1,0 +1,18 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.packages
+pubspec.lock
+
+# Dart
+*.lock
+
+# Node
+node_modules/
+.env
+
+# Others
+.DS_Store
+.idea/
+.vscode/
