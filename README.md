@@ -9,7 +9,7 @@ MongoDB (Database)
 
 ---
 
-Features
+## Features
 
  WhatsApp OTP-based login  
  Auto OTP verification  
@@ -22,7 +22,7 @@ Features
 
 ---
 
-Folder Structure
+## Folder Structure
 
 frontend
 ```
@@ -52,14 +52,14 @@ backend/ → Node.js backend
 └── package.json → Node dependencies
 ```
 
- Setup Instructions
+## Setup Instructions
 
  Backend (Node.js)
 
-1. Go to backend directory:
-   ```
-   cd backend
-   ```
+1. Go to backend directory
+```
+cd backend
+```
 Install dependencies:
 ```
 npm install
@@ -88,13 +88,6 @@ cd flutter_app
 Install packages:
 ```
 flutter pub get
-```
-Add custom font & background image:
-
-```
-assets/fonts/Poppins-Regular.ttf
-
-assets/images/bg.jpg
 ```
 
 Run app (Chrome or emulator):
